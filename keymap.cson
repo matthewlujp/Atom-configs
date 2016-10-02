@@ -37,5 +37,5 @@
 
 # multi selection
 'atom-text-editor':
-  'cmd-shift-P': 'editor:add-selection-above'
-  'cmd-shift-U': 'editor:add-selection-below'
+  'ctrl-cmd-shift-P': 'editor:add-selection-above'
+  'ctrl-cmd-shift-U': 'editor:add-selection-below'
