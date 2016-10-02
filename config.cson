@@ -1,0 +1,26 @@
+"*":
+  "atom-webbrowser":
+    homepage: "http://localhost:3000"
+  "browser-plus":
+    fav: 20
+    homepage: "http://localhost:3000"
+  editor:
+    fontSize: 8
+  "exception-reporting":
+    userId: "5797c123-1d42-aee8-0ce2-aa166d5b00d9"
+  "platformio-ide-terminal":
+    style:
+      animationSpeed: 3
+      theme: "homebrew"
+  "terminal-plus":
+    ansiColors:
+      normal:
+        green:
+          alpha: 1
+          blue: 1
+          green: 138
+          red: 0
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
