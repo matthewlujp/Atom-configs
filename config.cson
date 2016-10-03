@@ -4,10 +4,31 @@
   "browser-plus":
     fav: 20
     homepage: "http://localhost:3000"
+  core:
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
   editor:
-    fontSize: 8
+    fontSize: 9
+    showIndentGuide: true
   "exception-reporting":
     userId: "5797c123-1d42-aee8-0ce2-aa166d5b00d9"
+  gist:
+    token: "9182ac4064c101a2157bfd6ef3d2dc2ffe6b3187"
+  "git-projects":
+    ignoredPath: "/Users/luning/Go/src/github.com"
+    rootPath: "/Users/luning/Hack/Ruby;/Users/luning/Hack/Python;/Users/luning/Go/src/github.com/wantedly;/Users/luning/Go/src/practice"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
   "platformio-ide-terminal":
     style:
       animationSpeed: 3
